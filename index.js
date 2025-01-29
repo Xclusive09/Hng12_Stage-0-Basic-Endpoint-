@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
   res.json({
     email: "ibrahimabdulquddus51@gmail.com",
     current_datetime: new Date().toISOString(),
-    github_url: "https://github.com/Xclusive09/Hng12_Stage-0-Basic-Endpoint-.git"
+    github_url: "https://github.com/Xclusive09/Hng12_Stage-0-Basic-Endpoint-"
   });
 });
 
